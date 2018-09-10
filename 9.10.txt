@@ -1,0 +1,30 @@
+优酷：https://api.yibuyy.com/youkuyun/index.php?id=
+芒果：https://api.yibuyy.com/youkuyun/index.php?id=
+搜狐：http://zxt38.top/youkuyun/index.php?type=sohu&id=
+M3u8: https://player.njy9.com/m3u8.php?pd=u9yy&url=
+iqiyi:  http://zxt38.top/youkuyun/index.php?type=iqiyi&id=
+优酷：https://www.917k.la/?url=
+M3u8：https://www.jqaaa.com/jq1/?url=
+优酷：http://www.a305.org/yun.php?url=
+优酷：http://qtv.soshane.com/ko.php?url=
+爱奇艺：http://api.baiyug.cn/vip/index.php?url=
+http://vip.baiyug.cn/baiyug.php?url=
+优酷：http://www.1717yun.com/jx/ty.php?url=
+优酷：http://www.82190555.com/video.php?url=  
+优酷： http://www.dgua.xyz/webcloud/?url=   
+ http://api2.vparse.org?url=   
+ http://000o.cc/jx/ty.php?url=  
+ http://api.91exp.com/svip/?url=  
+ http://api.662820.com/xnflv/index.php?url=  
+ http://v.72du.com/api/?url=  
+ http://vip.jlsprh.com/index.php?url=        
+ http://v.alimao.im/?api=2&url=   
+ http://v.rpsofts.com/v.php?url=   
+ http://www.vipjiexi.com/tong.php?url=   
+ https://api.47ks.com/webcloud/?v=  
+ http://jx.aeidu.cn/5.php?url=  
+ http://000o.cc/jx/ty.php?url=     
+ http://www.82190555.com/video.php?url=     
+ http://jx.vipjiexi360.com/youku/apiget.php?url
+
+
